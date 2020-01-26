@@ -1,0 +1,8 @@
+https://github.com/funkBuild/machinist
+https://www.hackster.io/news/the-updated-esp32-based-grbl-cnc-control-board-is-now-for-sale-f37884e29105
+https://hackaday.com/2018/07/26/grbl-ported-to-the-esp32/
+https://funkbuild.github.io/machinist/
+https://github.com/simon-jouet/ESP32Controller
+https://forums.maslowcnc.com/t/esp32-ground-control-and-firmware-in-one/10708
+http://www.buildlog.net/blog/2018/12/new-2-5d-pen-laser-esp32-controller/
+
